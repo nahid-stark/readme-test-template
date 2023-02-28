@@ -44,4 +44,6 @@ int main()
     age_entry(age, n, i);
     printing_name(name, n, i);
     printing_age(age, n, i);
+    
+    return 0;
 }
